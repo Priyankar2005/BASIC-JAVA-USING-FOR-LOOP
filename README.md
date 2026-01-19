@@ -1,2 +1,16 @@
-# BASIC-JAVA-USING-FOR-LOOP
-FOR LOOP 
+<img width="669" height="209" alt="Screenshot 2026-01-18 122219" src="https://github.com/user-attachments/assets/44c1b571-891c-4d60-811b-f40bf663139f" />
+<img width="719" height="102" alt="Screenshot 2026-01-18 114103" src="https://github.com/user-attachments/assets/13e005f8-2899-448c-bc67-8de34a3b07e3" />
+<img width="684" height="99" alt="Screenshot 2026-01-18 112520" src="https://github.com/user-attachments/assets/743a8239-90e7-41a3-823c-44aae2377155" />
+<img width="730" height="101" alt="Screenshot 2026-01-18 110711" src="https://github.com/user-attachments/assets/dc03d158-9231-4973-95a1-db37334287f9" />
+<img width="986" height="355" alt="Screenshot 2026-01-18 110132" src="https://github.com/user-attachments/assets/4cb2b128-b7b9-460f-8216-dfd4fa12bee2" />
+<img width="688" height="109" alt="Screenshot 2026-01-18 105918" src="https://github.com/user-attachments/assets/8333b1c9-2af5-4e58-ab76-000d9d6ef79f" />
+<img width="794" height="345" alt="Screenshot 2026-01-18 105413" src="https://github.com/user-attachments/assets/30161233-14e8-4609-91e6-33ce99219f3b" />
+<img width="723" height="356" alt="Screenshot 2026-01-18 105221" src="https://github.com/user-attachments/assets/0d5c30fc-e2f6-4db4-a1a4-5482326717da" />
+<img width="739" height="108" alt="Screenshot 2026-01-18 105030" src="https://github.com/user-attachments/assets/7e767525-b65a-4f4c-bca5-1cc306c28950" />
+<img width="820" height="410" alt="Screenshot 2026-01-18 104500" src="https://github.com/user-attachments/assets/8dceb648-76e4-4af5-9d21-147859ae1b7a" />
+<img width="717" height="105" alt="Screenshot 2026-01-18 234927" src="https://github.com/user-attachments/assets/9b730d11-91ee-4660-8656-e9c58c7dd5f0" />
+<img width="778" height="808" alt="Screenshot 2026-01-18 234502" src="https://github.com/user-attachments/assets/7476394b-6c61-4414-92ec-3e2ce13085a0" />
+<img width="686" height="212" alt="Screenshot 2026-01-18 234102" src="https://github.com/user-attachments/assets/e2c4fb16-df6d-45f0-8f14-1981f32b4472" />
+<img width="599" height="217" alt="Screenshot 2026-01-18 234048" src="https://github.com/user-attachments/assets/394592d6-b16c-47fd-8c56-71917f310b97" />
+<img width="639" height="191" alt="Screenshot 2026-01-18 123505" src="https://github.com/user-attachments/assets/fde1812b-d839-47d6-8c48-42926313aa77" />
+<img width="751" height="374" alt="Screenshot 2026-01-18 122428" src="https://github.com/user-attachments/assets/cd850672-065f-4280-a1a3-cba2afdb4c7d" />
